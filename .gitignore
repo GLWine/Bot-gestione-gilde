@@ -208,3 +208,7 @@ __marimo__/
 
 # Environment variables file (used to store secrets like tokens and API keys)
 .env
+
+# Runtime data files used only by the bot (should not be versioned)
+bot/data/gilde.json
+bot/data/utenti_critici.json
